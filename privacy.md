@@ -17,4 +17,4 @@ Bark-O-Meter uses your device’s:
 We do **not** collect names, emails, or other identifiable information.  
 
 ### 4. Contact Us  
-For questions, email: **[your-email@example.com]**.  
+For questions, email: **[asad.flutter.dev@gmail.com]**.  
